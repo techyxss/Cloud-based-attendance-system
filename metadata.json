@@ -1,0 +1,8 @@
+{
+  "name": "KadPoly Attendance System",
+  "description": "Production-grade cloud-based attendance management system for Kaduna Polytechnic (KadPoly), supporting Administrators, Lecturers, and Students with role-based dashboards, verified attendance marking, correction requests, and real-time reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
